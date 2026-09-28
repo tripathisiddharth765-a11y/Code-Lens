@@ -1,0 +1,47 @@
+[
+  {
+    "id": "PT001",
+    "name": "Rahul Sharma",
+    "age": 45,
+    "disease": "Type 2 Diabetes",
+    "height": 172,
+    "weight": 85,
+    "bmi": 28.7
+  },
+  {
+    "id": "PT002",
+    "name": "Priya Patel",
+    "age": 32,
+    "disease": "Hypertension",
+    "height": 160,
+    "weight": 70,
+    "bmi": 27.3
+  },
+  {
+    "id": "PT003",
+    "name": "Amit Kumar",
+    "age": 58,
+    "disease": "Coronary Artery Disease",
+    "height": 175,
+    "weight": 92,
+    "bmi": 30.0
+  },
+  {
+    "id": "PT004",
+    "name": "Sneha Reddy",
+    "age": 28,
+    "disease": "Asthma",
+    "height": 158,
+    "weight": 55,
+    "bmi": 22.0
+  },
+  {
+    "id": "PT005",
+    "name": "Vikram Singh",
+    "age": 50,
+    "disease": "Chronic Kidney Disease",
+    "height": 168,
+    "weight": 78,
+    "bmi": 27.6
+  }
+]   

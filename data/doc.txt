@@ -1,0 +1,13 @@
+Java
+Created by James Gosling at Sun Microsystems (1995). A compiled, statically-typed,
+object-oriented language that follows the "write once, run anywhere" philosophy via the JVM. 
+It uses automatic garbage collection and is platform-independent.  Best suited for enterprise applications,
+Android development, and large-scale systems.  Popular frameworks include Spring and Hibernate.
+Python
+Created by Guido van Rossum (1991). An interpreted, dynamically-typed, multi-paradigm language known for its clean, 
+readable syntax that resembles plain English.  It uses automatic memory management and has a massive library ecosystem.
+Best suited for AI/ML, data science, web development, scripting, and rapid prototyping.  Popular frameworks include Django, Flask, NumPy, and Pandas.
+C++
+Created by Bjarne Stroustrup (1985). A compiled, statically-typed, multi-paradigm language (procedural + OOP + generic) that gives direct control over hardware and memory.  
+It requires manual memory management via pointers and is platform-dependent.  Best suited for game development, operating systems, embedded systems,
+ and performance-critical applications.  Popular frameworks include Qt, Boost, and Unreal Engine.

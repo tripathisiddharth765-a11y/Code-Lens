@@ -1,0 +1,34 @@
+[project]
+name = "codelens"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Siddharth Tripathi", email = "tripathisiddharth765@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "chromadb>=1.5.9",
+    "dotenv>=0.9.9",
+    "fastapi[standard]>=0.141.1",
+    "langchain>=1.4.0",
+    "langchain-chroma>=1.1.0",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.6.3",
+    "langchain-huggingface>=1.2.2",
+    "langchain-ollama>=1.1.0",
+    "langchain-text-splitters>=1.1.2",
+    "load-dotenv>=0.1.0",
+    "pydantic>=2.13.5",
+    "sentence-transformers>=6.0.1",
+    "streamlit>=1.63.0",
+    "tiktoken>=0.14.0",
+    "uvicorn>=0.52.4",
+]
+
+[project.scripts]
+codelens = "codelens:main"
+
+[build-system]
+requires = ["uv_build>=0.12.0,<0.13.0"]
+build-backend = "uv_build"
